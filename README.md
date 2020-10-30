@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## Overview
-###  'Das' (Dashboard / Landing) Page with all sales and sales data
+###  'Dash' (Dashboard / Landing) Page with all sales and sales data
 ![Landing Page](https://github.com/coryclemens/MERN-ExpenseTracking/blob/master/readme_img/Ex_Pense%20Landing.PNG)
 
 ### 'Add' Page to post request to API and add records to MongoDB
