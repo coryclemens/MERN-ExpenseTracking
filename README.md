@@ -32,7 +32,7 @@ Modify the URI environment variable to your MongoDB token
 ```javascript
 NODE_ENV   = development
 PORT       = 5000
-URI        = ""  //insert mongoDB connection URI here.. Old commit data key is obselete FYI
+URI        = ""  //insert mongoDB connection URI here.. 
 IP         =  localhost
 CLIENT_URI = "http://localhost:5000"
 ```
